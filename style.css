@@ -126,7 +126,3 @@ span {
         transform: translateY(0px) translateX(0px) rotate(360deg);
     }
 }
-@keyframes imageFloat {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-20px); }
-}
